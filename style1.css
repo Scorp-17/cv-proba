@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+@media screen and (min-width:1440px) and (max-width: 1599px){  }
+
 html,
 body {
     height: 100%;
